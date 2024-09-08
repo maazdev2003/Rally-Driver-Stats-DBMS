@@ -96,7 +96,7 @@ python main.py
 ![rally driver 1](https://github.com/user-attachments/assets/62cfa27d-8165-402d-bdf0-bcac0c2f8299)
 
 ### Main Menu
-![Main Menu](path-to-main-menu-screenshot)
+![Rally driver2](https://github.com/user-attachments/assets/6df8d241-2287-4699-a86a-428e1741264d)
 
 ## Future Improvements
 
