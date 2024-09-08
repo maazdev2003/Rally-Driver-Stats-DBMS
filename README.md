@@ -93,7 +93,7 @@ python main.py
 ## Screenshots
 
 ### Login Screen
-![Login](path-to-login-screenshot)
+![rally driver 1](https://github.com/user-attachments/assets/62cfa27d-8165-402d-bdf0-bcac0c2f8299)
 
 ### Main Menu
 ![Main Menu](path-to-main-menu-screenshot)
